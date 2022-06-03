@@ -1,4 +1,3 @@
-/*
 import logo from './logo.svg';
 import React from 'react';
 import './App.css';
@@ -27,9 +26,9 @@ function App() {
 }
 
 export default App;
-*/
+
 //템플릿 문자열 사용하기
-import React from 'react';
+/*import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
 import AAA from './R037_ReactstrapDropdown'
@@ -43,4 +42,4 @@ function App(){
     </div>
   );
 }
-export default App;
+export default App;*/
